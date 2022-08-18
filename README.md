@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=28&pause=800&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+dude!;And+welcome+to+my+profile!;What's+up%3F;Well%2C+that's+fine...)" />
+</div>
 
-<!--
-**QirashiMintos/QirashiMintos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QirashiMintos&count_private=true&show_icons=true&theme=dracula&line_height=24&bg_color=22272e&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QirashiMintos&theme=dracula&layout=compact&langs_count=10&bg_color=22272e&hide_border=true&card_width=275" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Iso&size=100&duration=250&color=F7F7F7&center=true&vCenter=true&width=150&height=150&lines=%7C;%2F;%E2%80%94;%5C" />
+</div>
